@@ -1,2 +1,2 @@
 # KtorBasedJWTAuthSystem
-JWT Authentication using Ktor Backend in Native Android Apps 
+JWT Authentication using Ktor in Native Android Apps 
